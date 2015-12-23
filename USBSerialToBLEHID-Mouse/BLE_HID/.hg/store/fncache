@@ -1,0 +1,10 @@
+data/HIDServiceBase.h.i
+data/USBHID_Types.h.i
+data/MouseService.h.i
+data/Keyboard_types.h.i
+data/JoystickService.h.i
+data/KeyboardService.h.i
+data/HID_types.h.i
+data/HIDServiceBase.cpp.i
+data/version.i
+data/HIDDeviceInformationService.h.i
